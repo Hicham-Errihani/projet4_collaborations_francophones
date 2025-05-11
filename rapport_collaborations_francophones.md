@@ -16,3 +16,15 @@ Estimer le nombre de collaborations actives entre chercheurs francophones en ana
 
 ## ✅ Résultat estimé
 Nombre de collaborations actives (publications avec ≥ 2 auteurs) sur 1000 publications : **672**
+## Résultats Visualisés
+
+### Version Statique
+![Graphique des collaborations](docs/collaborations.png)
+
+### Version Interactive
+[Ouvrir le dashboard interactif](docs/collaborations_interactif.html)
+
+## Méthodologie
+- Données traitées avec Pandas (Python 3.10)
+- Visualisations générées avec Matplotlib (statique) et Plotly (interactif)
+- Notebook disponible : [collaborations_francophones.ipynb](collaborations_francophones.ipynb)
